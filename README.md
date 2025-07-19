@@ -1,6 +1,6 @@
 # ⚙️ DC Motor Control
 
-This repository contains a series of control system experiments focused on the modeling and control of a DC motor. Developed as part of the *Automated Control Systems* course, the labs explore key techniques in classical and modern control theory, including:
+This repository contains a series of control system experiments focused on the modeling and control of a DC motor. Developed as part of the **Automated Control Systems II** course, the labs explore key techniques in classical and modern control theory, including:
 
 - ⚙️ System identification from experimental step response  
 - 📉 State feedback control for position regulation  
