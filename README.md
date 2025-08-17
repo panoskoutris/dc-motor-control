@@ -72,7 +72,7 @@ dc-motor-control/
 ##  Author
 
 **Panagiotis Koutris**  
-Student at AUTH – School of Electrical & Computer Engineering
+Undergraduate at AUTH – School of Electrical & Computer Engineering
 
 ---
 
